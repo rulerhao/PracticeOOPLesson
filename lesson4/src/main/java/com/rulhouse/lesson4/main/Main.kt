@@ -8,12 +8,8 @@ import com.rulhouse.lesson4.main.engineer.Engineer
 import com.rulhouse.lesson4.main.engineer.SteamEngineEngineer
 
 class Main {
-//    val engine = Engine(Engineer())   // It could be not runnable.
-//    val engineMadeBySteamEngineEngineer = Engine(SteamEngineEngineer())   // It could be not runnable.
-//    val steamEngine = SteamEngine(Engineer())  // It could be not runnable.
-//    val steamEngineMadeBySteamEngineEngineer = SteamEngine(SteamEngineEngineer())   // It could be not runnable.
-    val computerScienceEngine = Engine(ComputerScienceEngineer())
-    val computerScienceEngineMadeBySteamEngineer = Engine(ComputerScienceSteamEngineer())
-    val computerScienceSteamEngine = SteamEngine(ComputerScienceEngineer())
-    val computerScienceSteamEngineMadeBySteamEngineer = SteamEngine(ComputerScienceSteamEngineer())
+    val engine = Engine(ComputerScienceEngineer())
+    val engineMadeBySteamEngineer = Engine(ComputerScienceSteamEngineer())
+//    val steamEngine = SteamEngine(ComputerScienceEngineer())   // It could be not runnable.
+    val steamEngineMadeBySteamEngineer = SteamEngine(ComputerScienceSteamEngineer())
 }
