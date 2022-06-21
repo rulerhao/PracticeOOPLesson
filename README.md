@@ -31,6 +31,6 @@ Now the government published a law that every engine must be crafted by engineer
 1. One is made the original engineer get a computer science license.
 2. The other way is to hire new engineers who have computer science licenses.
 
-#### Note
-Alright, that's it. For all of the above, I try to write as abstract as possible so that you can code it in your way. Don't need to be afraid to make mistakes. Because any wrong way may not be that wrong in software development.
-As I said, feel free to ask me at any time.
+#### My comment
+Alright, that's it. For all of the above, I try to write as abstract as possible so that you can code it in your way. Don't need to be afraid to make mistakes.
+Feel free to ask me at any time.
